@@ -31,8 +31,8 @@
 uint8_t DEVICE_ADDRESS = 0x53;
 //uint8_t DEVICE_ADDRESS = 0x1D;
 
-const char* ssid     = "Apple Time Capsule";
-const char* password = "91279127";
+const char* ssid     = "";
+const char* password = "";
 
 const int identity_led = 5;
 const int led_gpio = 33;
